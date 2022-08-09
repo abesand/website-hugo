@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>My Website</title>
+	<link>https://abrahamsandoval.xyz/projects/</link>
+	<description>Recent content in Projects on My Website</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Mon, 08 Aug 2022 14:57:27 -0700</lastBuildDate>
+    
+        <atom:link href="https://abrahamsandoval.xyz/projects/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Web Server Finally Working</title>
+		<link>https://abrahamsandoval.xyz/projects/web-server-finally-working/</link>
+		<pubDate>Mon, 08 Aug 2022 14:57:27 -0700</pubDate>
+		
+		<guid>https://abrahamsandoval.xyz/projects/web-server-finally-working/</guid>
+		<description>&lt;p&gt;Initially my intentions of hosting my own site was to have my own email server. It took a while and a lot of troubleshooting. But I’m happy to announce that it’s finally here and you can reach me at &lt;a href=&#34;mailto:contact@abrahamsandoval.xyz&#34;&gt;email&lt;/a&gt;. It’s open to everyone and you can expect a reply within a day. More things will be coming to the site as time goes on so stay tuned for that. The picture below is thunderbird. A gui email client to send and recieve emails.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://abrahamsandoval.xyz/thunderbird.png&#34; alt=&#34;thunderbird&#34;&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Website</title>
+		<link>https://abrahamsandoval.xyz/projects/website/</link>
+		<pubDate>Mon, 08 Aug 2022 14:57:15 -0700</pubDate>
+		
+		<guid>https://abrahamsandoval.xyz/projects/website/</guid>
+		<description>&lt;p&gt;First real update in a long time. Happy to be back and working on the site again.
+&lt;img src=&#34;https://abrahamsandoval.xyz/guns.png&#34; alt=&#34;gun tongue&#34;&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>

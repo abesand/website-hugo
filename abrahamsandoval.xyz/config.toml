@@ -1,0 +1,5 @@
+baseURL = 'https://abrahamsandoval.xyz'
+languageCode = 'en-us'
+title = 'My Website'
+theme = 'lugo'
+

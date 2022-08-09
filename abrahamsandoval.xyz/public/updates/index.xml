@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>My Website</title>
+	<link>https://abrahamsandoval.xyz/updates/</link>
+	<description>Recent content in Updates on My Website</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Mon, 08 Aug 2022 14:57:00 -0700</lastBuildDate>
+    
+        <atom:link href="https://abrahamsandoval.xyz/updates/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>What to Expect</title>
+		<link>https://abrahamsandoval.xyz/updates/what-to-expect/</link>
+		<pubDate>Mon, 08 Aug 2022 14:57:00 -0700</pubDate>
+		
+		<guid>https://abrahamsandoval.xyz/updates/what-to-expect/</guid>
+		<description>&lt;p&gt;This is my personal site. You can expect to see blog posts from a range of different topics. Such as my thoughts, feelings, opinions, experiences, memories and rants.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://abrahamsandoval.xyz/cc.gif&#34; alt=&#34;mvc&#34;&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>

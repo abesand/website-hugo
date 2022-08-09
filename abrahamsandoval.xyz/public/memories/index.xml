@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>My Website</title>
+	<link>https://abrahamsandoval.xyz/memories/</link>
+	<description>Recent content in Memories on My Website</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Mon, 08 Aug 2022 14:56:13 -0700</lastBuildDate>
+    
+        <atom:link href="https://abrahamsandoval.xyz/memories/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>JSRF</title>
+		<link>https://abrahamsandoval.xyz/memories/jsrf/</link>
+		<pubDate>Mon, 08 Aug 2022 14:56:13 -0700</pubDate>
+		
+		<guid>https://abrahamsandoval.xyz/memories/jsrf/</guid>
+		<description>&lt;p&gt;Growing up one of my all time favorite games was Jet Set Radio Future. It originally came out for the Xbox on a dual disk along side some racing game. My brother played that one while I played JSRF. The game is about a group of taggers in Japan that battle rival tagging crews and the local police. The soundtrack has some memorable songs, some good some not so good. I could go on about this game and some of the silly things I did imitating these guys, some of which got me in trouble and others that were just plain funny. Anyways I’m happy to see I’m not the only one who felt so strongly about this game as there are a group of indie devs who are coming out with a revamped version of the game. It’s called Bomb Rush Cyberfunk. You can bet your ass I’m buying it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://abrahamsandoval.xyz/JSRF.png&#34; alt=&#34;JSRF&#34;&gt;
+&lt;img src=&#34;https://abrahamsandoval.xyz/BRC.png&#34; alt=&#34;BRC&#34;&gt;
+&lt;img src=&#34;https://abrahamsandoval.xyz/beat.png&#34; alt=&#34;beat&#34;&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
